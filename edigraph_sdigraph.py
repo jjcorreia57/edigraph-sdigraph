@@ -2,6 +2,7 @@
 
 """Implementação computacional dos E-Digraph e S-Digraph.
 
+
 O módulo reproduz o procedimento geométrico usado no artigo para derivadas
 parciais de primeira ordem e para a preparação/análise de derivadas sucessivas.
 Também contém a verificação das 36 relações geométricas do S-Digraph usadas
